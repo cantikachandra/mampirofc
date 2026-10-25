@@ -1,0 +1,6 @@
+{
+  "name": "MAMPIR - Peta & Wisata UMKM Interaktif",
+  "description": "Aplikasi pariwisata adil & merata dengan peta interaktif rute GPS UMKM, voucher koin, check-in QRIS, dan portal mitra.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
